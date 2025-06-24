@@ -13,10 +13,10 @@
 ***MENTOR*:** NEELA SANTHOSH
 
 ## DESCRIPTION
-### INTRODUCTION
+### INTRODUCTION  
 This project demonstrates a complete workflow for fetching real-time weather data from a public API, processing the information, and generating insightful visualizations. The system connects to OpenWeatherMap's API, retrieves both current conditions and 5-day forecasts, structures the data using Pandas, and creates a professional dashboard using Matplotlib and Seaborn. The final output includes both raw data (CSV) and visual reports (PNG), providing a foundation for weather analysis applications.
 
-### TABLE OF CONTENTS
+### TABLE OF CONTENTS  
 1. [INTRODUCTION](#introduction)
 2. [TOOLS AND TECHNOLOGIES USED](#tools-and-technologies-used)
 3. [DEVELOPMENT ENVIRONMENT OPTIONS](#development-environment-options)
@@ -25,33 +25,33 @@ This project demonstrates a complete workflow for fetching real-time weather dat
 7. [OUTPUT](#output)
 8. [CONCLUSION](#conclusion)
 
-### TOOLS AND TECHNOLOGIES USED
-1. Programming Language
+### TOOLS AND TECHNOLOGIES USED  
+**1. Programming Language**  
 - Python 3.x (Primary language for API calls, data processing, and visualization)
 
-2. Libraries & Frameworks
-- requests → For making HTTP requests to the OpenWeatherMap API
-           → GET requests, JSON parsing are used
+**2. Libraries & Frameworks**  
+- **requests** → For making HTTP requests to the OpenWeatherMap API
+               → GET requests, JSON parsing are used
   
-- pandas → For data manipulation and structuring
-         → DataFrames, groupby operations are used
+- **pandas** → For data manipulation and structuring
+             → DataFrames, groupby operations are used
   
-- matplotlib → For creating static visualizations
-             → Subplots, text annotations are used
+- **matplotlib** → For creating static visualizations
+                 → Subplots, text annotations are used
   
-- seaborn → For enhanced and aesthetically pleasing data visualizations
-          → Line plots, styling are used
+- **seaborn** → For enhanced and aesthetically pleasing data visualizations
+              → Line plots, styling are used
 
-- datetime → For handling timestamps in weather data
-           →	Timestamp handling are used
+- **datetime** → For handling timestamps in weather data
+               → Timestamp handling are used
   
-3. API Used
+**3. API Used**
 - OpenWeatherMap API (Free tier available)
 - Provides current weather data and 5-day forecasts
 - Returns data in JSON format
 - Rate Limits: 60 calls/minute (free tier)
 
-4. Output Formats
+**4. Output Formats**
 - CSV File (weather_forecast.csv) → Stores processed forecast data
 - PNG Image (weather_dashboard.png) → Weather visualization dashboard
 
@@ -86,13 +86,13 @@ This project demonstrates a complete workflow for fetching real-time weather dat
 - Event management (Outdoor event scheduling)
 
 ### TECHNICAL DEEP DIVE: VISUALIZATION COMPONENTS
-**Dashboard Architecture**
-1. Current Weather Panel
+##### Dashboard Architecture
+**1. Current Weather Panel**
 - Temperature display (48pt font for emphasis)
 - Secondary metrics (humidity, wind)
 - Weather condition iconography
 
-2. Forecast Visualizations
+**2. Forecast Visualizations**
 - Line Chart: Temperature trends with confidence intervals
 - Area Chart: Humidity variability
 - Pie Chart: Weather condition distribution
