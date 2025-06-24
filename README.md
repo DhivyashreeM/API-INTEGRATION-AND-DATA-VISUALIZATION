@@ -118,5 +118,3 @@ This project demonstrates a complete workflow for fetching real-time weather dat
 
 ### CONCLUSION
 This task demonstrates API integration, data processing, and visualization using Python. It can be extended into a web app, automated weather alerts, or integrated with IoT systems. The skills used here are applicable in data science, backend development, and automation projects.
-
-
