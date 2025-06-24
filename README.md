@@ -12,17 +12,17 @@
 
 ***MENTOR*:** NEELA SANTHOSH
 
-## DESCRIPTION: 
-### INTRODUCTION:
+## DESCRIPTION
+### INTRODUCTION
 The task involves fetching weather data from the OpenWeatherMap API, processing it using Python, and creating an interactive visualization dashboard using Matplotlib and Seaborn. The goal is to display current weather conditions and a 5-day forecast in an easy-to-understand graphical format.
 
 ### TABLE OF CONTENTS
 1. [INTRODUCTION](#introduction)
-2. [TOOLS & TECHNOLOGIES USED](#tools-&-technologies-used)
-3. [APPLICATIONS & USE CASES](#applications-&-use-cases)
+2. [TOOLS AND TECHNOLOGIES USED](#tools-and-technologies-used)
+3. [APPLICATIONS AND USE CASES](#applications-and-use-cases)
 4. [CONCLUSION](#conclusion)
 
-### TOOLS & TECHNOLOGIES USED
+### TOOLS AND TECHNOLOGIES USED
 1. Programming Language
 - Python 3.x (Primary language for API calls, data processing, and visualization)
 
@@ -49,7 +49,7 @@ The task involves fetching weather data from the OpenWeatherMap API, processing 
 
 - PNG Image (weather_dashboard.png) → Weather visualization dashboard
 
-### APPLICATIONS & USE CASES
+### APPLICATIONS AND USE CASES
 **1. Weather Monitoring & Forecasting**
 - Personal weather tracking
 
