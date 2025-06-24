@@ -19,8 +19,12 @@ This project demonstrates a complete workflow for fetching real-time weather dat
 ### TABLE OF CONTENTS
 1. [INTRODUCTION](#introduction)
 2. [TOOLS AND TECHNOLOGIES USED](#tools-and-technologies-used)
-3. [APPLICATIONS AND USE CASES](#applications-and-use-cases)
-4. [CONCLUSION](#conclusion)
+3. [DEVELOPMENT ENVIRONMENT OPTIONS](#development-environment-options)
+4. [APPLICATIONS AND USE CASES](#applications-and-use-cases)
+5. [TECHNICAL DEEP DIVE: VISUALIZATION COMPONENTS](#technical-deep-dive-visualization-components)
+6. [FUTURE ENHANCEMENTS](#future-enhancements)
+7. [OUTPUT](#output)
+8. [CONCLUSION](#conclusion)
 
 ### TOOLS AND TECHNOLOGIES USED
 1. Programming Language
@@ -94,7 +98,7 @@ This project demonstrates a complete workflow for fetching real-time weather dat
 - Area Chart: Humidity variability
 - Pie Chart: Weather condition distribution
 
-### Future Enhancements
+### FUTURE ENHANCEMENTS
 **Machine Learning Integration**
 - Time series forecasting with Prophet
 - Anomaly detection for extreme weather
@@ -107,5 +111,12 @@ This project demonstrates a complete workflow for fetching real-time weather dat
 - Interactive Plotly dashboards
 - 3D weather mapping
 
+### OUTPUT
+![Image 1](https://github.com/user-attachments/assets/1f42c4c6-fb19-4dc2-9ff1-fb9a82b207b4)
+
+![Image 2](https://github.com/user-attachments/assets/536ecfff-c7bd-4527-b301-be7108ce5fe3)
+
 ### CONCLUSION
 This task demonstrates API integration, data processing, and visualization using Python. It can be extended into a web app, automated weather alerts, or integrated with IoT systems. The skills used here are applicable in data science, backend development, and automation projects.
+
+
